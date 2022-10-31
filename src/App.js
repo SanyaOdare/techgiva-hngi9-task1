@@ -1,11 +1,16 @@
-import React from "react";
+import Button from './components/Button';
+import Footer from './components/Footer';
+import Profile from './components/Profile';
 
 function App() {
+  
   return (
-    <div className="App">
-      <h1>TechGiva | Front-End Stage 1 Task</h1>
+    <div className='container'>
+      <Profile />
+      <Button />
+      <Footer />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
