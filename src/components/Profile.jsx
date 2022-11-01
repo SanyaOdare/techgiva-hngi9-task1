@@ -5,7 +5,7 @@ import { data } from '../utils/constants'
 function Profile() {
   return (
     <div>
-      <img src={avatar} alt='' />
+      <img className='avatar' src={avatar} alt='avatar' />
       <h1 className='h1'>{data.name}</h1>
     </div>
   )

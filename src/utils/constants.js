@@ -1,7 +1,11 @@
 export const avatar = "https://github.com/SanyaOdare.png";
+// footer logos
 export const zuriLogo = "https://internship.zuri.team/static/media/logo.36d2d48a.svg";
 export const ingressiveLogo  = "https://ingressive.org/wp-content/uploads/2020/05/I4G-Logo-Color-Cropped.png";
 
+// socials (slack , github)
+export const slack = "https://toppng.com/uploads/preview/slack-new-logo-icon-11609376883z32jbkf8kg.png";
+export const github = "https://www.svgrepo.com/show/332084/github.svg";
 
 // data
 export const data = {

@@ -1,6 +1,7 @@
+import Profile from './components/Profile';
 import Button from './components/Button';
 import Footer from './components/Footer';
-import Profile from './components/Profile';
+import Social from './components/Social';
 
 function App() {
   
@@ -8,6 +9,7 @@ function App() {
     <div className='container'>
       <Profile />
       <Button />
+      <Social />
       <Footer />
     </div>
   )
