@@ -67,7 +67,7 @@ button:hover {
 /* Socials */
 .social-container {
   display: flex;
-  gap: 1.5rem;
+  gap: 1rem;
   margin-bottom: 6rem;
 }
 
@@ -92,13 +92,12 @@ p {
   .container {
     display: flex;
     flex-flow: row wrap;
+    padding: 1rem;
     position: relative;
     overflow: hidden;
   }
 
   button {
-    /* border: none;
-    background-color: #EAECF0; */
     font-size: .95rem;
     margin-bottom: 1.5rem;
     padding: 1.5rem 0rem;
